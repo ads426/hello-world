@@ -1,5 +1,5 @@
 # Ignora todos los archivos que comienzan con la letra z
-[Zz].*
+z.*
 
 #Ignora un archivo llamado .env
 *.env
